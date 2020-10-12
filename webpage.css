@@ -1,0 +1,56 @@
+body
+{
+    padding: 50px;
+    background-color:grey;
+    width: 100%;
+}
+.container-fluid
+{
+    background-image: url("pics/car.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+.btn-primary
+{
+    position: absolute;
+    top: 70px;
+    right: 90px;
+}
+.display-3
+{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.container-fluid-1
+{
+    background-color: grey;
+    overflow: hidden;
+}
+.card 
+{
+    float: right;
+    margin: 90px 40px;
+    margin-bottom: 100px;
+
+}
+.box
+{
+
+    background-image: url("pics/food.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    font-weight: bold;
+    padding: 30px;
+}
+
+
+.card
+{
+    float: right;
+}
